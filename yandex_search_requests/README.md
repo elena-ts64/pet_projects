@@ -20,4 +20,4 @@ python, pandas, matplotlib, pandasql, statsmodels, Datalens
 
 исследовательский анализ данных, визуализация данных, анализ временного ряда
 
-<a href="yandex_search_requests/Datalens_BI_dashboard.png">Скрин реализации дашборда в Datalens по данному проекту</a>
+<a href="Datalens_BI_dashboard.png">Скрин реализации дашборда в Datalens по данному проекту</a>
